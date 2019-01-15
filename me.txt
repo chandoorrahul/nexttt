@@ -3,4 +3,11 @@ yea. am here
 today
 day
 lunch
+<<<<<<< HEAD
 dinner
+=======
+we will have
+he man
+dude
+>>>>>>> 5061a82118cee02a7b1f23b625f127bde5f1fbcc
+yes
